@@ -1,3 +1,7 @@
+# Language
+- [English](https://github.com/kuragehimekurara1/Awesome-Nintendo-3DS/blob/main/README.md)
+- [Japanese](https://github.com/kuragehimekurara1/Awesome-Nintendo-3DS/blob/main/README-ja.md)
+Other languages coming soon...
 # Awesome Nintendo 3DS
 List of great things for Nintendo 3DS. It probably contains all the most important, practical and cool things.
 
