@@ -6,14 +6,14 @@
 List of great things for Nintendo 3DS. It probably contains all the most important, practical and cool things.
 
 ## Table of Contents
-- **[ Main Link](-main-link)**
+- **[ Main Link](-MainLink)**
 - **[ Media](-media)**
 	- [ Music](-music)
 	- [ Video](-video)
 	- [ Reading](-reading)
 	- [ Streaming](-streaming)
 
-##  Main Link
+##  MainLink
 - [Universal-DB](https://db.universal-team.net) - Main database of 3DS CFW
 
  ##  Media
