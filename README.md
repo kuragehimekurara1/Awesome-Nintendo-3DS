@@ -1,3 +1,10 @@
+# Todo list
+- [ ] Added 3DS History
+- [ ] Add operation method
+- [ ] Support for other languages (Chinese, Russian, etc...)
+- [ ] Add icon photo
+- [ ] Add video
+
 # Language
 - [English](https://github.com/kuragehimekurara1/Awesome-Nintendo-3DS/blob/main/README.md)
 - [Japanese](https://github.com/kuragehimekurara1/Awesome-Nintendo-3DS/blob/main/README-ja.md)
