@@ -44,6 +44,7 @@ It also includes language and app information.
 - Spanish
 - Turkish
 - Ukrainian
+
  ##  Media
 ###  Music
 - [LimePlayer3DS](https://github.com/oreo639/LimePlayer3DS) - 3DS version of LimePlayer
@@ -51,3 +52,4 @@ Plays Mp3, Wav, Flac, Midi, Xmi, Mus, Hmi, Hmp, Ogg vorbis, and Opus music (alph
 - [MadCitrus](https://github.com/Hayleia/ctrmus/releases) - Can play PCM WAV, AIFF, FLAC, Opus, Vorbis, MP3, FFMPEG format music. Improved version of ctrmus.
 - [ctrmus - Another 3DS Music Player](https://github.com/deltabeard/ctrmus/releases) - Plays music in PCM WAV, AIFF, FLAC, Opus, Vorbis and MP3 formats.
 - [tangerine](https://github.com/tesnos/tangerine) - Can play music in wav, flac, and mp3 formats
+###  Video
